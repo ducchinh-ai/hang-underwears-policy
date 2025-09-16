@@ -1,0 +1,35 @@
+[Icon Theme]
+Name=Hang Underwears Icons
+Comment=Modern and clean icon theme for Hang Underwears application
+Inherits=Adwaita,hicolor
+Example=folder
+
+Directories=scalable/apps,scalable/actions,scalable/devices,scalable/places
+
+[scalable/apps]
+Size=48
+Context=Applications
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[scalable/actions]
+Size=48
+Context=Actions
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[scalable/devices]
+Size=48
+Context=Devices
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[scalable/places]
+Size=48
+Context=Places
+Type=Scalable
+MinSize=16
+MaxSize=512

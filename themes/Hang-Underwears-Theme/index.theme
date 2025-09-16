@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Hang Underwears Theme
+Comment=A beautiful and modern theme for Hang Underwears application users
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Hang-Underwears-Theme
+MetacityTheme=Hang-Underwears-Theme
+IconTheme=Hang-Underwears-Icons
+CursorTheme=default
+ButtonLayout=close,minimize,maximize:
