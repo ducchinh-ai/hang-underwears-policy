@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Hang Underwears Theme Manager
+Comment=Quản lý theme Hang Underwears / Manage Hang Underwears theme
+Exec=gnome-tweaks
+Icon=preferences-desktop-theme
+Terminal=false
+Categories=Settings;DesktopSettings;GTK;
+Keywords=theme;style;appearance;gtk;gnome;
+StartupNotify=true
